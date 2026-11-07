@@ -12,8 +12,16 @@ First public Windows preview of Gekko’s Journal.
 - Fresh investigations on launch and **New game**; only preferences persist.
 - A single dark startup screen and persistent pages for smooth tab changes.
 
-Windows x64 portable ZIP. Extract the entire folder and run `GekkosJournal.exe`.
-The app is unsigned. This preview has no automatic updater. It is a manual
+Windows x64 setup installer is the recommended download. It installs for the
+current user without administrator access, creates a Start Menu shortcut, offers
+an optional desktop shortcut and adds an uninstaller to Windows Settings.
+Reinstalling or updating keeps preferences; uninstalling also leaves preferences
+available for a later reinstall.
+
+The original portable ZIP remains available. Extract the entire folder and run
+`GekkosJournal.exe`. Both downloads contain the same version 0.1.0 application.
+
+The installer and app are unsigned. This preview has no automatic updater. It is a manual
 companion and does not identify ghosts from game capture or audio.
 
 The main application is closed source. Third-party LGPL source archives are

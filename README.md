@@ -2,18 +2,20 @@
 
 A free Windows companion for Phasmophobia. Keep it on your second monitor, mark what you find, and narrow down the ghost with a journal that feels at home beside the game.
 
-**[Download for Windows](https://github.com/Martin10014/gekkos-journal/releases/latest)** · [All releases](https://github.com/Martin10014/gekkos-journal/releases) · [Report a problem](https://github.com/Martin10014/gekkos-journal/issues)
+**[Download Windows setup — recommended](https://github.com/Martin10014/gekkos-journal/releases/download/v0.1.0/Gekkos-Journal-Setup-0.1.0.exe)** · [Portable ZIP](https://github.com/Martin10014/gekkos-journal/releases/download/v0.1.0/Gekkos-Journal-0.1.0-windows-x64.zip) · [All releases](https://github.com/Martin10014/gekkos-journal/releases)
 
 ![Gekko’s Journal evidence page](screenshots/journal.png)
 
 ## Get started
 
-1. Download the Windows ZIP from **Releases**.
-2. Extract the **entire folder** somewhere you can write to, such as your Documents folder.
-3. Open **GekkosJournal.exe** inside the extracted folder. Keep the `_internal` folder beside it.
+1. Download and open **Gekkos-Journal-Setup-0.1.0.exe**.
+2. Follow the setup wizard. It installs for your Windows account without requesting administrator access. A desktop shortcut is optional.
+3. Open **Gekko’s Journal** from the Start Menu, or from the desktop if you chose that shortcut.
 4. Set your evidence allowance, then mark evidence and observations as you play.
 
-Designed for **Windows 10/11, 64-bit (x64)**. Python, an account, an API key and paid credits are not required. This first release is unsigned, so Windows may show an unfamiliar-app warning. Verify that the download came from this repository; the release includes SHA-256 checksums.
+Prefer a portable copy? Download the ZIP, extract the **entire folder**, and open **GekkosJournal.exe**. Keep the `_internal` folder beside it. The portable copy does not create shortcuts or an uninstall entry.
+
+Designed for **Windows 10/11, 64-bit (x64)**. Python, an account, an API key and paid credits are not required. The installer and app are unsigned. Windows may show an unfamiliar-app warning, and Smart App Control or managed-PC policies may block them. Verify that the download came from this repository; the release includes SHA-256 checksums.
 
 ## What’s inside
 
@@ -36,7 +38,11 @@ The main journal works offline. Sharing, global shortcuts and microphone access 
 
 ## Updates and feedback
 
-Download a newer release and extract it into a new folder. Preferences remain in the same local settings folder. Close the old version before opening the new one.
+For an installed copy, close the journal and run the newer setup file. It updates the installed app while keeping your preferences. There is no automatic updater.
+
+For a portable copy, close the journal and extract the newer ZIP into a new folder. Both editions use the same local preferences folder.
+
+To uninstall an installed copy, open **Windows Settings → Apps**, find **Gekko’s Journal**, and choose **Uninstall**. Uninstalling removes the installed app and its shortcuts; your preferences remain in `%LOCALAPPDATA%\GekkoJournal` for a later reinstall.
 
 For a bug report, include the app version, Windows version, what you did and what you expected. Screenshots help; remove private notes and personal details before posting. Feature suggestions are welcome in [Issues](https://github.com/Martin10014/gekkos-journal/issues).
 
