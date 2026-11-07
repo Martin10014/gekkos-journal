@@ -1,0 +1,11 @@
+name: Feature suggestion
+description: Suggest a useful improvement to the journal.
+title: "[Suggestion] "
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help during your investigations?
+      description: Describe the situation and the improvement you have in mind.
+    validations:
+      required: true

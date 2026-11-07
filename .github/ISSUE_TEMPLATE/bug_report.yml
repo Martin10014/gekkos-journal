@@ -1,0 +1,23 @@
+name: Bug report
+description: Something in Gekko's Journal is not working as expected.
+title: "[Bug] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Journal version
+      placeholder: 0.1.0
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      placeholder: Windows 11, x64
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include the steps, expected result and actual result. Remove private notes or personal information from any screenshots or logs.
+    validations:
+      required: true

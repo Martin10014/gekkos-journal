@@ -1,0 +1,58 @@
+Gekko's Journal — Freeware License
+Version 1.0, 7 November 2026
+Copyright (c) 2026 Gekko. All rights reserved except as expressly granted below.
+
+1. Permission to use
+
+You may download, install and run the unmodified Gekko's Journal application
+without charge, for personal or commercial use. You may make backup copies.
+You may share an unmodified copy of an official release, without charging a
+fee for the application, provided that you retain this license, the included
+third-party notices and the accompanying source-access information. Linking
+to the official release page is encouraged.
+
+2. Application source and other rights
+
+This permission does not grant a license to the application's source code,
+nor a general right to modify, sublicense, sell, rebrand or distribute modified
+versions of the proprietary application. Gekko retains rights not expressly
+granted here, subject to applicable law and section 3 below. No trademark rights
+are granted. This license does not restrict rights that cannot lawfully be
+restricted.
+
+3. Third-party software and LGPL rights
+
+The application includes separate third-party software, including Qt, PySide6
+and Shiboken6 used under the GNU Lesser General Public License version 3.
+Those components remain governed by their own licenses. Their license texts,
+copyright notices, source-access information and library replacement
+instructions are supplied in the accompanying licenses folder and release.
+
+Nothing in this license restricts your rights under those third-party licenses.
+In particular, you may modify or replace LGPL-covered libraries, use the
+application with a modified compatible version of those libraries, and reverse
+engineer the combined work for debugging such modifications. You may copy,
+modify and redistribute the third-party components as permitted by their
+licenses. Where these terms conflict with a third-party license concerning
+that component, the third-party license controls.
+
+4. No warranty
+
+To the maximum extent permitted by applicable law, the application is provided
+"AS IS", without warranties of any kind, express or implied, including
+merchantability, fitness for a particular purpose and noninfringement. Reference
+information may be incomplete or become outdated. You are responsible for
+the observations and decisions you make while using it.
+
+5. Limitation of liability
+
+To the maximum extent permitted by applicable law, the author is not liable
+for damages or claims arising from use of, or inability to use, the application.
+These terms do not exclude liability or consumer rights that applicable law
+does not allow to be excluded.
+
+Official downloads and contact:
+https://github.com/Martin10014/gekkos-journal
+
+Gekko's Journal is an unofficial fan tool, not affiliated with or endorsed by
+Kinetic Games. Phasmophobia and related names belong to their respective owners.
