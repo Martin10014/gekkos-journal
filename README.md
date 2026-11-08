@@ -36,6 +36,12 @@ Appearance and tool preferences are stored locally in `%LOCALAPPDATA%\GekkoJourn
 
 The main journal works offline. Sharing, global shortcuts and microphone access start disabled; enable them only when you want them. Sharing runs on your trusted network and sends the current journal to connected participants. External reference links open in your browser when selected. There is no analytics service or account system in this app.
 
+## Support Gekko’s Journal
+
+Gekko’s Journal is free to download and use. If you enjoy it, you can support its development with an optional monthly membership on Patreon. Every feature and update stays free for everyone.
+
+**[Support Gekko on Patreon](https://www.patreon.com/GekkoWasTaken)**
+
 ## Updates and feedback
 
 For an installed copy, close the journal and run the newer setup file. It updates the installed app while keeping your preferences. There is no automatic updater.
