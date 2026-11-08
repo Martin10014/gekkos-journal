@@ -2,18 +2,19 @@
 
 A free Windows companion for Phasmophobia. Keep it on your second monitor, mark what you find, and narrow down the ghost with a journal that feels at home beside the game.
 
-**[Download Windows setup — recommended](https://github.com/Martin10014/gekkos-journal/releases/download/v0.1.2/Gekkos-Journal-Setup-0.1.2.exe)** · [Portable ZIP](https://github.com/Martin10014/gekkos-journal/releases/download/v0.1.2/Gekkos-Journal-0.1.2-windows-x64.zip) · [All releases](https://github.com/Martin10014/gekkos-journal/releases)
+**[Download Windows setup — recommended](https://github.com/Martin10014/gekkos-journal/releases/download/v0.1.3/Gekkos-Journal-Setup-0.1.3.exe)** · [Portable ZIP](https://github.com/Martin10014/gekkos-journal/releases/download/v0.1.3/Gekkos-Journal-0.1.3-windows-x64.zip) · [All releases](https://github.com/Martin10014/gekkos-journal/releases)
 
 ![Gekko’s Journal evidence page](screenshots/journal.png)
 
 ## Get started
 
-1. Download and open **Gekkos-Journal-Setup-0.1.2.exe**.
+1. Download and open **Gekkos-Journal-Setup-0.1.3.exe**.
 2. Follow the setup wizard. It installs for your Windows account without requesting administrator access. A desktop shortcut is optional.
 3. Open **Gekko’s Journal** from the Start Menu, or from the desktop if you chose that shortcut.
 4. Set your evidence allowance, then mark evidence and observations as you play.
 5. Left-click a ghost name to cycle **Selected (Maybe) → Crossed out → Clear**. Right-click it to open notes and tests.
 6. Hover a ghost name to preview its evidence: evidence that does not fit is temporarily crossed out on the left. Moving away restores your view without changing your marks. The Mimic’s preview includes its extra Ghost Orbs.
+7. Use the small **Gender ? / ♂ / ♀** controls in the Evidence page footer to match the icon beside the ghost’s name in-game. Male rules out Banshee and Dayan; Female adds no rule-outs. Click **?**, or the selected icon again, to clear. Hover for help.
 
 Prefer a portable copy? Download the ZIP, extract the **entire folder**, and open **GekkosJournal.exe**. Keep the `_internal` folder beside it. The portable copy does not create shortcuts or an uninstall entry.
 
@@ -32,7 +33,7 @@ Mark your evidence and observations, compare possible ghosts, and use the test g
 
 ## A fresh journal every game
 
-Every launch starts a fresh investigation. **New game** clears evidence, observations, notes, test progress and logs, and resets running tools. There is no saved investigation history.
+Every launch starts a fresh investigation. **New game** clears evidence, gender and other filters, observations, notes, test progress and logs, and resets running tools. There is no saved investigation history.
 
 Appearance and tool preferences are stored locally in `%LOCALAPPDATA%\GekkoJournal`. Imported-map settings can retain the path to an image on your PC. Your image is not bundled with this download or uploaded automatically.
 

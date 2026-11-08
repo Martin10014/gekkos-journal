@@ -1,5 +1,18 @@
 # Release notes
 
+## 0.1.3 — 8 November 2026
+
+- Added a ghost gender filter: Male rules out Banshee and Dayan; Female adds no
+  rule-outs. Match the gender icon beside the ghost’s name in-game.
+- Added small, labelled **Gender ? / ♂ / ♀** controls in the Evidence page footer,
+  with muted icons, a subtle selected underline and help on hover.
+- Clear the gender choice with **?** or by clicking the selected icon again.
+  Gender works with other filters, Undo, New game and shared journals while
+  keeping the ghost roster in its usual positions.
+
+The setup installer and portable ZIP both include these updates. Close the
+journal before updating; your preferences are kept.
+
 ## 0.1.2 — 8 November 2026
 
 - Hover a ghost name to temporarily cross out evidence that does not fit it.
