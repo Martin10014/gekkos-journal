@@ -1,5 +1,18 @@
 # Release notes
 
+## 0.1.2 — 8 November 2026
+
+- Hover a ghost name to temporarily cross out evidence that does not fit it.
+  Moving away restores your view; your marks and filters stay unchanged.
+  The Mimic’s preview includes its extra Ghost Orbs.
+- Left-click ghost names to cycle Selected (Maybe) → Crossed out → Clear,
+  directly in the journal. Each click is a single undoable action.
+- Right-click a ghost name to open its notes and tests, including crossed-out
+  ghosts. Updated hints explain the controls.
+
+The setup installer and portable ZIP both include these updates. Close the
+journal before updating; your preferences are kept.
+
 ## 0.1.1 — 8 November 2026
 
 - Matched the ghost list to the in-game journal: alphabetical rows across three

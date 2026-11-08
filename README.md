@@ -2,16 +2,18 @@
 
 A free Windows companion for Phasmophobia. Keep it on your second monitor, mark what you find, and narrow down the ghost with a journal that feels at home beside the game.
 
-**[Download Windows setup — recommended](https://github.com/Martin10014/gekkos-journal/releases/download/v0.1.1/Gekkos-Journal-Setup-0.1.1.exe)** · [Portable ZIP](https://github.com/Martin10014/gekkos-journal/releases/download/v0.1.1/Gekkos-Journal-0.1.1-windows-x64.zip) · [All releases](https://github.com/Martin10014/gekkos-journal/releases)
+**[Download Windows setup — recommended](https://github.com/Martin10014/gekkos-journal/releases/download/v0.1.2/Gekkos-Journal-Setup-0.1.2.exe)** · [Portable ZIP](https://github.com/Martin10014/gekkos-journal/releases/download/v0.1.2/Gekkos-Journal-0.1.2-windows-x64.zip) · [All releases](https://github.com/Martin10014/gekkos-journal/releases)
 
 ![Gekko’s Journal evidence page](screenshots/journal.png)
 
 ## Get started
 
-1. Download and open **Gekkos-Journal-Setup-0.1.1.exe**.
+1. Download and open **Gekkos-Journal-Setup-0.1.2.exe**.
 2. Follow the setup wizard. It installs for your Windows account without requesting administrator access. A desktop shortcut is optional.
 3. Open **Gekko’s Journal** from the Start Menu, or from the desktop if you chose that shortcut.
 4. Set your evidence allowance, then mark evidence and observations as you play.
+5. Left-click a ghost name to cycle **Selected (Maybe) → Crossed out → Clear**. Right-click it to open notes and tests.
+6. Hover a ghost name to preview its evidence: evidence that does not fit is temporarily crossed out on the left. Moving away restores your view without changing your marks. The Mimic’s preview includes its extra Ghost Orbs.
 
 Prefer a portable copy? Download the ZIP, extract the **entire folder**, and open **GekkosJournal.exe**. Keep the `_internal` folder beside it. The portable copy does not create shortcuts or an uninstall entry.
 
