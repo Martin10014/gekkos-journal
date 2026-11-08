@@ -1,5 +1,15 @@
 # Release notes
 
+## 0.1.5 — 8 November 2026
+
+- Ghost notes, tests, comparisons and evidence/equipment help now share a smooth slide-in panel inside the journal, with Close and Escape to dismiss.
+
+- Added **Update and restart** directly in the journal, with download progress and cancellation.
+- Updates use fresh GitHub release metadata, exact package names, bounded downloads and SHA-256 verification before installation.
+- Installed copies update in place; portable copies retain the previous folder as a backup and preserve unknown files.
+- The journal stays open if download or preparation fails. A prepared update closes and reopens it automatically, keeping preferences.
+- Development copies remain separate from public package updates.
+
 ## 0.1.4 — 8 November 2026
 
 - Added quiet GitHub update notices. Checks run after startup and at most every
