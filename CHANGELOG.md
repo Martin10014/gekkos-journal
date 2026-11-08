@@ -1,5 +1,16 @@
 # Release notes
 
+## 0.1.7 — 8 November 2026
+
+- Added recognition pictures for all seven cursed possessions beside their
+  offline guides, making each special item easier to identify.
+- Added an overview gallery: select an item's picture or name to open its guide.
+  Pictures work offline and include source credits.
+
+Users on v0.1.5 or later can choose **Update and restart** in the journal. Users
+on v0.1.4 or earlier can install this release once to get in-app updates.
+Preferences stay.
+
 ## 0.1.6 — 8 November 2026
 
 - Added offline guides for all seven cursed possessions, with usage, costs,
