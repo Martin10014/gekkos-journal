@@ -21,8 +21,8 @@ available for a later reinstall.
 The original portable ZIP remains available. Extract the entire folder and run
 `GekkosJournal.exe`. Both downloads contain the same version 0.1.0 application.
 
-The installer and app are unsigned. This preview has no automatic updater. It is a manual
-companion and does not identify ghosts from game capture or audio.
+The installer and app are unsigned. To update, close the journal and run the newer
+setup file, or extract the newer portable ZIP into a new folder.
 
 The main application is closed source. Third-party LGPL source archives are
 included as separate release downloads to accompany the bundled Qt libraries.

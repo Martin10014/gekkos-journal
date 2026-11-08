@@ -26,7 +26,7 @@ Designed for **Windows 10/11, 64-bit (x64)**. Python, an account, an API key and
 - **Reference pages:** original guides, a workspace for your own map images, and links to online references.
 - **Optional tools:** a small always-on-top view, keyboard shortcuts, Windows voice commands and live sharing to a phone or teammates on a trusted private network.
 
-This is a **manual companion**. It does not watch your screen, listen for ghost sounds, read game memory or automatically identify a ghost. You make the observations; the journal helps you compare them. Game updates and custom settings can affect the reference advice.
+Mark your evidence and observations, compare possible ghosts, and use the test guides to plan your next move.
 
 ## A fresh journal every game
 
