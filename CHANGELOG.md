@@ -1,5 +1,21 @@
 # Release notes
 
+## 0.1.6 — 8 November 2026
+
+- Added offline guides for all seven cursed possessions, with usage, costs,
+  hunt triggers, Tarot Card effects and Monkey Paw wishes. A shortcut in Guides
+  opens the category, and Ouija search also accepts common misspellings.
+- Added a brief, smooth mouse-wheel animation across the journal, information
+  panel, tools and reference pages.
+- Scrolling respects the Windows reduced-motion setting.
+- Touchpad scrolling, scrollbar dragging, keyboard navigation, Ctrl+wheel zoom
+  and map zoom retain their usual direct response.
+- Portable updates tolerate brief Windows file locks while keeping the old copy
+  safe if files remain in use.
+
+Users on v0.1.5 can choose **Update and restart** in the journal. Users on v0.1.4
+or earlier can install this release once to get in-app updates. Preferences stay.
+
 ## 0.1.5 — 8 November 2026
 
 - Ghost notes, tests, comparisons and evidence/equipment help now share a smooth slide-in panel inside the journal, with Close and Escape to dismiss.
