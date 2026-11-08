@@ -1,5 +1,20 @@
 # Release notes
 
+## 0.1.4 — 8 November 2026
+
+- Added quiet GitHub update notices. Checks run after startup and at most every
+  six hours; Settings includes a manual check and an automatic-check switch.
+  Open the trusted release page when ready, or dismiss that version's notice.
+- Right-click any evidence entry for confirmation, rule-out and hidden-evidence
+  guidance without changing your marks.
+- Added equipment comparisons for all three tiers of the seven evidence tools.
+- Added conditional fuse-box clues for Hantu and Jinn, distinguishing direct
+  ghost interactions from player switching and circuit overloads. These remain
+  advisory observations.
+
+Install this update once to receive future update notices. The setup installer
+and portable ZIP both include these changes, and existing preferences are kept.
+
 ## 0.1.3 — 8 November 2026
 
 - Added a ghost gender filter: Male rules out Banshee and Dayan; Female adds no
