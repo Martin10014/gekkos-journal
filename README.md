@@ -2,13 +2,13 @@
 
 A free Windows companion for Phasmophobia. Keep it on your second monitor, mark what you find, and narrow down the ghost with a journal that feels at home beside the game.
 
-**[Download Windows setup — recommended](https://github.com/Martin10014/gekkos-journal/releases/download/v0.1.0/Gekkos-Journal-Setup-0.1.0.exe)** · [Portable ZIP](https://github.com/Martin10014/gekkos-journal/releases/download/v0.1.0/Gekkos-Journal-0.1.0-windows-x64.zip) · [All releases](https://github.com/Martin10014/gekkos-journal/releases)
+**[Download Windows setup — recommended](https://github.com/Martin10014/gekkos-journal/releases/download/v0.1.1/Gekkos-Journal-Setup-0.1.1.exe)** · [Portable ZIP](https://github.com/Martin10014/gekkos-journal/releases/download/v0.1.1/Gekkos-Journal-0.1.1-windows-x64.zip) · [All releases](https://github.com/Martin10014/gekkos-journal/releases)
 
 ![Gekko’s Journal evidence page](screenshots/journal.png)
 
 ## Get started
 
-1. Download and open **Gekkos-Journal-Setup-0.1.0.exe**.
+1. Download and open **Gekkos-Journal-Setup-0.1.1.exe**.
 2. Follow the setup wizard. It installs for your Windows account without requesting administrator access. A desktop shortcut is optional.
 3. Open **Gekko’s Journal** from the Start Menu, or from the desktop if you chose that shortcut.
 4. Set your evidence allowance, then mark evidence and observations as you play.
@@ -19,7 +19,7 @@ Designed for **Windows 10/11, 64-bit (x64)**. Python, an account, an API key and
 
 ## What’s inside
 
-- **Evidence journal:** seven evidence marks, a stable ghost roster, reduced-evidence rules, shortlists and side-by-side comparisons.
+- **Evidence journal:** seven evidence marks, a ghost roster in the same three-column order as the in-game journal, reduced-evidence rules, shortlists and side-by-side comparisons.
 - **Behavior clues:** hunt speed, hunt-start sanity, events and ghost-specific observations, with conditions explained beside the clue.
 - **Ghost tests:** methods, checklists and interpretation tips for the 30-ghost catalog.
 - **Field tools:** incense and hunt timers, manual footstep tapping, synthesized pace examples and a sanity estimate.

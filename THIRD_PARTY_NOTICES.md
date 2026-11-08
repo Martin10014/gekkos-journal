@@ -4,7 +4,7 @@ Gekko’s Journal uses **Qt, PySide6 and Shiboken6 under LGPL version 3**. The a
 
 The Windows download includes license texts, copyright notices, third-party attributions and library replacement instructions in its `licenses` folder. The original Qt/PySide libraries are unmodified and are loaded dynamically.
 
-For **version 0.1.0**, these corresponding source archives are available beside the application on the [release page](https://github.com/Martin10014/gekkos-journal/releases/tag/v0.1.0):
+For **version 0.1.1**, these corresponding source archives are available beside the application on the [release page](https://github.com/Martin10014/gekkos-journal/releases/tag/v0.1.1):
 
 - `qtbase-everywhere-src-6.12.0.tar.xz`
 - `qtsvg-everywhere-src-6.12.0.tar.xz`

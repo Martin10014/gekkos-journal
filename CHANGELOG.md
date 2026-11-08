@@ -1,5 +1,16 @@
 # Release notes
 
+## 0.1.1 — 8 November 2026
+
+- Matched the ghost list to the in-game journal: alphabetical rows across three
+  centered columns, with ruled-out ghosts keeping their place.
+- Fixed brief extra windows appearing when opening or refreshing ghost notes.
+- Added a custom leather-journal and ghost icon to the app, taskbar, shortcuts
+  and installer. Loading and notes windows use the same icon.
+
+The setup installer and portable ZIP both include these updates. Close the
+journal before updating; your preferences are kept.
+
 ## 0.1.0 — 7 November 2026
 
 First public Windows preview of Gekko’s Journal.
